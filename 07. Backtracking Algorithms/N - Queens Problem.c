@@ -1,4 +1,4 @@
-/* C program to solve N Queen Problem using backtracking */
+/* C program to implement N Queen Problem using backtracking */
 #define N 5
 #include <stdbool.h>
 #include <stdio.h>
